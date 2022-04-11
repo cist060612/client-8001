@@ -10,7 +10,6 @@ public class Client8001Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Client8001Application.class, args);
-        System.out.println("hello");
     }
 
 }
