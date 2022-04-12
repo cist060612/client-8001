@@ -12,7 +12,6 @@ public class Client8001Application {
         SpringApplication.run(Client8001Application.class, args);
         System.out.println(1);
         System.out.println(2);
-        System.out.println(2);
 
     }
 }
